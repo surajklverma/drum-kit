@@ -1,3 +1,7 @@
+
+document.body.style.setProperty("-webkit-transform", "rotate(-90deg)", null);
+
+
 var numberOfDrums=document.querySelectorAll(".drum").length;//number of Drums
 
 
